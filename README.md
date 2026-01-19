@@ -1,2 +1,3 @@
-# ModMash-Page
-a page for my modpack
+# ModMash
+# A page for the modpack "modmash" on modrinth.
+
